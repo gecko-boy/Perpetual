@@ -1,0 +1,55 @@
+header {
+    background-color: rgb(102, 102, 102);
+    color:whitesmoke;
+    box-shadow: 0 3px 10px 3px rgb(41, 41, 41);
+    margin-top: 20px;
+
+}
+
+img {
+    text-align: center;
+}
+
+header h1 {
+    text-align: center;
+    text-decoration:  whitesmoke;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+
+body {
+    background-color:rgb(66, 75, 75);
+    color: whitesmoke;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+h1 {
+    padding-top: 0px;
+}
+
+p {
+    margin-top: -15px;
+}
+
+a {
+    color:whitesmoke;
+}
+
+a:hover{
+    color:darkgoldenrod;
+}
+
+footer {
+    background-color: rgb(102, 102, 102);
+    text-align: center;
+    color:whitesmoke;
+    box-shadow: 0 3px 10px 3px rgb(41, 41, 41);
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-top: 40px;
+}
